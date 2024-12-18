@@ -1,5 +1,5 @@
 # Fake News Detector
-An simple API that uses a Large Language Model (GPT) to detect fake news from a given article. This project was created using `fastapi` and `openai` libraries.
+An simple API that uses a Large Language Model (GPT) to detect fake news from a given article. This project was created using `FastAPI` and `OpenAI` libraries.
 
 ## Set-up Tutorial
 To set up and run the Fake News Detector API, follow these steps:
