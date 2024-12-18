@@ -1,4 +1,4 @@
-# llm-fake-news-detector
+# Fake News Detector
 An API that uses a Large Language Model (GPT) to detect fake news from a given article.
 
 ## Set-up Tutorial
